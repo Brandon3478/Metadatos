@@ -1,9 +1,6 @@
 import java.net.*;
 import java.io.*;
-/**
- *
- * @author axele
- */
+
 public class SecoD {
     public static void main(String[] args){
       try{  
